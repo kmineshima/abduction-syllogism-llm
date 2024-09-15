@@ -1,0 +1,217 @@
+	premises_en	hypothesis_en_1	hypothesis_en_2	gold	figure_premises	content
+0	All things that were in the bag are white. These balls are white.	These balls were in the bag.	These balls were not in the bag.	3	AP2	neutral
+1	All things that are white were in the bag. These balls are white.	These balls were in the bag.	These balls were not in the bag.	1	AP1	neutral
+2	All things that were in the bag are white. These balls are not white.	These balls were in the bag.	These balls were not in the bag.	2	AN2	neutral
+3	All things that are white were in the bag. These balls are not white.	These balls were in the bag.	These balls were not in the bag.	3	AN1	neutral
+4	No things that were in the bag are white. These balls are white.	These balls were in the bag.	These balls were not in the bag.	2	EP2	neutral
+5	No things that are white were in the bag. These balls are white.	These balls were in the bag.	These balls were not in the bag.	2	EP1	neutral
+6	No things that were in the bag are white. These balls are not white.	These balls were in the bag.	These balls were not in the bag.	3	EN2	neutral
+7	No things that are white were in the bag. These balls are not white.	These balls were in the bag.	These balls were not in the bag.	3	EN1	neutral
+8	All things that were in the box are red. These toys are red.	These toys were in the box.	These toys were not in the box.	3	AP2	neutral
+9	All things that are red were in the box. These toys are red.	These toys were in the box.	These toys were not in the box.	1	AP1	neutral
+10	All things that were in the box are red. These toys are not red.	These toys were in the box.	These toys were not in the box.	2	AN2	neutral
+11	All things that are red were in the box. These toys are not red.	These toys were in the box.	These toys were not in the box.	3	AN1	neutral
+12	No things that were in the box are red. These toys are red.	These toys were in the box.	These toys were not in the box.	2	EP2	neutral
+13	No things that are red were in the box. These toys are red.	These toys were in the box.	These toys were not in the box.	2	EP1	neutral
+14	No things that were in the box are red. These toys are not red.	These toys were in the box.	These toys were not in the box.	3	EN2	neutral
+15	No things that are red were in the box. These toys are not red.	These toys were in the box.	These toys were not in the box.	3	EN1	neutral
+16	All things that were in the warehouse are black. These bats are black.	These bats were in the warehouse.	These bats were not in the warehouse.	3	AP2	neutral
+17	All things that are black were in the warehouse. These bats are black.	These bats were in the warehouse.	These bats were not in the warehouse.	1	AP1	neutral
+18	All things that were in the warehouse are black. These bats are not black.	These bats were in the warehouse.	These bats were not in the warehouse.	2	AN2	neutral
+19	All things that are black were in the warehouse. These bats are not black.	These bats were in the warehouse.	These bats were not in the warehouse.	3	AN1	neutral
+20	No things that were in the warehouse are black. These bats are black.	These bats were in the warehouse.	These bats were not in the warehouse.	2	EP2	neutral
+21	No things that are black were in the warehouse. These bats are black.	These bats were in the warehouse.	These bats were not in the warehouse.	2	EP1	neutral
+22	No things that were in the warehouse are black. These bats are not black.	These bats were in the warehouse.	These bats were not in the warehouse.	3	EN2	neutral
+23	No things that are black were in the warehouse. These bats are not black.	These bats were in the warehouse.	These bats were not in the warehouse.	3	EN1	neutral
+24	All those who were in the room are female. These people are female.	These people were in the room.	These people were not in the room.	3	AP2	neutral
+25	All those who are female were in the room. These people are female.	These people were in the room.	These people were not in the room.	1	AP1	neutral
+26	All those who were in the room are female. These people are not female.	These people were in the room.	These people were not in the room.	2	AN2	neutral
+27	All those who are female were in the room. These people are not female.	These people were in the room.	These people were not in the room.	3	AN1	neutral
+28	No those who were in the room are female. These people are female.	These people were in the room.	These people were not in the room.	2	EP2	neutral
+29	No those who are female were in the room. These people are female.	These people were in the room.	These people were not in the room.	2	EP1	neutral
+30	No those who were in the room are female. These people are not female.	These people were in the room.	These people were not in the room.	3	EN2	neutral
+31	No those who are female were in the room. These people are not female.	These people were in the room.	These people were not in the room.	3	EN1	neutral
+32	All things that were sold in the supermarket are fresh. These apples are fresh.	These apples were sold in the supermarket.	These apples were not sold in the supermarket.	3	AP2	neutral
+33	All things that are fresh were sold in the supermarket. These apples are fresh.	These apples were sold in the supermarket.	These apples were not sold in the supermarket.	1	AP1	neutral
+34	All things that were sold in the supermarket are fresh. These apples are not fresh.	These apples were sold in the supermarket.	These apples were not sold in the supermarket.	2	AN2	neutral
+35	All things that are fresh were sold in the supermarket. These apples are not fresh.	These apples were sold in the supermarket.	These apples were not sold in the supermarket.	3	AN1	neutral
+36	No things that were sold in the supermarket are fresh. These apples are fresh.	These apples were sold in the supermarket.	These apples were not sold in the supermarket.	2	EP2	neutral
+37	No things that are fresh were sold in the supermarket. These apples are fresh.	These apples were sold in the supermarket.	These apples were not sold in the supermarket.	2	EP1	neutral
+38	No things that were sold in the supermarket are fresh. These apples are not fresh.	These apples were sold in the supermarket.	These apples were not sold in the supermarket.	3	EN2	neutral
+39	No things that are fresh were sold in the supermarket. These apples are not fresh.	These apples were sold in the supermarket.	These apples were not sold in the supermarket.	3	EN1	neutral
+40	All things that are dishes in the restaurant are tasty. These salads are tasty.	These salads are dishes in the restaurant.	These salads are not dishes in the restaurant.	3	AP2	neutral
+41	All things that are tasty are dishes in the restaurant. These salads are tasty.	These salads are dishes in the restaurant.	These salads are not dishes in the restaurant.	1	AP1	neutral
+42	All things that are dishes in the restaurant are tasty. These salads are not tasty.	These salads are dishes in the restaurant.	These salads are not dishes in the restaurant.	2	AN2	neutral
+43	All things that are tasty are dishes in the restaurant. These salads are not tasty.	These salads are dishes in the restaurant.	These salads are not dishes in the restaurant.	3	AN1	neutral
+44	No things that are dishes in the restaurant are tasty. These salads are tasty.	These salads are dishes in the restaurant.	These salads are not dishes in the restaurant.	2	EP2	neutral
+45	No things that are tasty are dishes in the restaurant. These salads are tasty.	These salads are dishes in the restaurant.	These salads are not dishes in the restaurant.	2	EP1	neutral
+46	No things that are dishes in the restaurant are tasty. These salads are not tasty.	These salads are dishes in the restaurant.	These salads are not dishes in the restaurant.	3	EN2	neutral
+47	No things that are tasty are dishes in the restaurant. These salads are not tasty.	These salads are dishes in the restaurant.	These salads are not dishes in the restaurant.	3	EN1	neutral
+48	All things that are the buildings in the town have historical value. These churches have historical value.	These churches are the buildings in the town.	These churches are not the buildings in the town.	3	AP2	neutral
+49	All things that have historical value are the buildings in the town. These churches have historical value.	These churches are the buildings in the town.	These churches are not the buildings in the town.	1	AP1	neutral
+50	All things that are the buildings in the town have historical value. These churches don't have historical value.	These churches are the buildings in the town.	These churches are not the buildings in the town.	2	AN2	neutral
+51	All things that have historical value are the buildings in the town. These churches don't have historical value.	These churches are the buildings in the town.	These churches are not the buildings in the town.	3	AN1	neutral
+52	No things that are the buildings in the town have historical value. These churches have historical value.	These churches are the buildings in the town.	These churches are not the buildings in the town.	2	EP2	neutral
+53	No things that have historical value are the buildings in the town. These churches have historical value.	These churches are the buildings in the town.	These churches are not the buildings in the town.	2	EP1	neutral
+54	No things that are the buildings in the town have historical value. These churches don't have historical value.	These churches are the buildings in the town.	These churches are not the buildings in the town.	3	EN2	neutral
+55	No things that have historical value are the buildings in the town. These churches don't have historical value.	These churches are the buildings in the town.	These churches are not the buildings in the town.	3	EN1	neutral
+56	All things that are vagetables grown on the firm are organically grown. These tomatoes are organically grown.	These tomatoes are vagetables grown on the firm.	These tomatoes are not vagetables grown on the firm.	3	AP2	neutral
+57	All things that are organically grown are vagetables grown on the firm. These tomatoes are organically grown.	These tomatoes are vagetables grown on the firm.	These tomatoes are not vagetables grown on the firm.	1	AP1	neutral
+58	All things that are vagetables grown on the firm are organically grown. These tomatoes are not organically grown.	These tomatoes are vagetables grown on the firm.	These tomatoes are not vagetables grown on the firm.	2	AN2	neutral
+59	All things that are organically grown are vagetables grown on the firm. These tomatoes are not organically grown.	These tomatoes are vagetables grown on the firm.	These tomatoes are not vagetables grown on the firm.	3	AN1	neutral
+60	No things that are vagetables grown on the firm are organically grown. These tomatoes are organically grown.	These tomatoes are vagetables grown on the firm.	These tomatoes are not vagetables grown on the firm.	2	EP2	neutral
+61	No things that are organically grown are vagetables grown on the firm. These tomatoes are organically grown.	These tomatoes are vagetables grown on the firm.	These tomatoes are not vagetables grown on the firm.	2	EP1	neutral
+62	No things that are vagetables grown on the firm are organically grown. These tomatoes are not organically grown.	These tomatoes are vagetables grown on the firm.	These tomatoes are not vagetables grown on the firm.	3	EN2	neutral
+63	No things that are organically grown are vagetables grown on the firm. These tomatoes are not organically grown.	These tomatoes are vagetables grown on the firm.	These tomatoes are not vagetables grown on the firm.	3	EN1	neutral
+64	All those who are students at this school wear a red uniform. These children wear a red uniform.	These children are students at this school.	These children are not students at this school.	3	AP2	neutral
+65	All those who wear a red uniform are students at this school. These children wear a red uniform.	These children are students at this school.	These children are not students at this school.	1	AP1	neutral
+66	All those who are students at this school wear a red uniform. These children don't wear a red uniform.	These children are students at this school.	These children are not students at this school.	2	AN2	neutral
+67	All those who wear a red uniform are students at this school. These children don't wear a red uniform.	These children are students at this school.	These children are not students at this school.	3	AN1	neutral
+68	No those who are students at this school wear a red uniform. These children wear a red uniform.	These children are students at this school.	These children are not students at this school.	2	EP2	neutral
+69	No those who wear a red uniform are students at this school. These children wear a red uniform.	These children are students at this school.	These children are not students at this school.	2	EP1	neutral
+70	No those who are students at this school wear a red uniform. These children don't wear a red uniform.	These children are students at this school.	These children are not students at this school.	3	EN2	neutral
+71	No those who wear a red uniform are students at this school. These children don't wear a red uniform.	These children are students at this school.	These children are not students at this school.	3	EN1	neutral
+72	All those who have a driver’s license are driving a car. These people are driving a car.	These people have a driver’s license.	These people don't have a driver’s license.	3	AP2	consistent
+73	All those who are driving a car have a driver’s license. These people are driving a car.	These people have a driver’s license.	These people don't have a driver’s license.	1	AP1	consistent
+74	All those who have a driver’s license are driving a car. These people are not driving a car.	These people have a driver’s license.	These people don't have a driver’s license.	2	AN2	consistent
+75	All those who are driving a car have a driver’s license. These people are not driving a car.	These people have a driver’s license.	These people don't have a driver’s license.	3	AN1	consistent
+76	No those who have a driver’s license are driving a car. These people are driving a car.	These people have a driver’s license.	These people don't have a driver’s license.	2	EP2	inconsistent
+77	No those who are driving a car have a driver’s license. These people are driving a car.	These people have a driver’s license.	These people don't have a driver’s license.	2	EP1	inconsistent
+78	No those who have a driver’s license are driving a car. These people are not driving a car.	These people have a driver’s license.	These people don't have a driver’s license.	3	EN2	inconsistent
+79	No those who are driving a car have a driver’s license. These people are not driving a car.	These people have a driver’s license.	These people don't have a driver’s license.	3	EN1	inconsistent
+80	All those who have been training for a long time are muscular. These people are muscular.	These people have been training for a long time.	These people haven't been training for a long time.	3	AP2	consistent
+81	All those who are muscular have been training for a long time. These people are muscular.	These people have been training for a long time.	These people haven't been training for a long time.	1	AP1	consistent
+82	All those who have been training for a long time are muscular. These people are not muscular.	These people have been training for a long time.	These people haven't been training for a long time.	2	AN2	consistent
+83	All those who are muscular have been training for a long time. These people are not muscular.	These people have been training for a long time.	These people haven't been training for a long time.	3	AN1	consistent
+84	No those who have been training for a long time are muscular. These people are muscular.	These people have been training for a long time.	These people haven't been training for a long time.	2	EP2	inconsistent
+85	No those who are muscular have been training for a long time. These people are muscular.	These people have been training for a long time.	These people haven't been training for a long time.	2	EP1	inconsistent
+86	No those who have been training for a long time are muscular. These people are not muscular.	These people have been training for a long time.	These people haven't been training for a long time.	3	EN2	inconsistent
+87	No those who are muscular have been training for a long time. These people are not muscular.	These people have been training for a long time.	These people haven't been training for a long time.	3	EN1	inconsistent
+88	All things that are expensive instruments are producing a good sound. These guitars are producing a good sound.	These guitars are expensive instruments.	These guitars are not expensive instruments.	3	AP2	consistent
+89	All things that are producing a good sound are expensive instruments. These guitars are producing a good sound.	These guitars are expensive instruments.	These guitars are not expensive instruments.	1	AP1	consistent
+90	All things that are expensive instruments are producing a good sound. These guitars are not producing a good sound.	These guitars are expensive instruments.	These guitars are not expensive instruments.	2	AN2	consistent
+91	All things that are producing a good sound are expensive instruments. These guitars are not producing a good sound.	These guitars are expensive instruments.	These guitars are not expensive instruments.	3	AN1	consistent
+92	No things that are expensive instruments are producing a good sound. These guitars are producing a good sound.	These guitars are expensive instruments.	These guitars are not expensive instruments.	2	EP2	inconsistent
+93	No things that are producing a good sound are expensive instruments. These guitars are producing a good sound.	These guitars are expensive instruments.	These guitars are not expensive instruments.	2	EP1	inconsistent
+94	No things that are expensive instruments are producing a good sound. These guitars are not producing a good sound.	These guitars are expensive instruments.	These guitars are not expensive instruments.	3	EN2	inconsistent
+95	No things that are producing a good sound are expensive instruments. These guitars are not producing a good sound.	These guitars are expensive instruments.	These guitars are not expensive instruments.	3	EN1	inconsistent
+96	All those who committed a serious crime are caught in the jail. These people are caught in the jail.	These people committed a serious crime.	These people didn't commit a serious crime.	3	AP2	consistent
+97	All those who are caught in the jail committed a serious crime. These people are caught in the jail.	These people committed a serious crime.	These people didn't commit a serious crime.	1	AP1	consistent
+98	All those who committed a serious crime are caught in the jail. These people are not caught in the jail.	These people committed a serious crime.	These people didn't commit a serious crime.	2	AN2	consistent
+99	All those who are caught in the jail committed a serious crime. These people are not caught in the jail.	These people committed a serious crime.	These people didn't commit a serious crime.	3	AN1	consistent
+100	No those who committed a serious crime are caught in the jail. These people are caught in the jail.	These people committed a serious crime.	These people didn't commit a serious crime.	2	EP2	inconsistent
+101	No those who are caught in the jail committed a serious crime. These people are caught in the jail.	These people committed a serious crime.	These people didn't commit a serious crime.	2	EP1	inconsistent
+102	No those who committed a serious crime are caught in the jail. These people are not caught in the jail.	These people committed a serious crime.	These people didn't commit a serious crime.	3	EN2	inconsistent
+103	No those who are caught in the jail committed a serious crime. These people are not caught in the jail.	These people committed a serious crime.	These people didn't commit a serious crime.	3	EN1	inconsistent
+104	All those who had a fun time are smiling. These people are smiling.	These people had a fun time.	These people didn't have a fun time.	3	AP2	consistent
+105	All those who are smiling had a fun time. These people are smiling.	These people had a fun time.	These people didn't have a fun time.	1	AP1	consistent
+106	All those who had a fun time are smiling. These people are not smiling.	These people had a fun time.	These people didn't have a fun time.	2	AN2	consistent
+107	All those who are smiling had a fun time. These people are not smiling.	These people had a fun time.	These people didn't have a fun time.	3	AN1	consistent
+108	No those who had a fun time are smiling. These people are smiling.	These people had a fun time.	These people didn't have a fun time.	2	EP2	inconsistent
+109	No those who are smiling had a fun time. These people are smiling.	These people had a fun time.	These people didn't have a fun time.	2	EP1	inconsistent
+110	No those who had a fun time are smiling. These people are not smiling.	These people had a fun time.	These people didn't have a fun time.	3	EN2	inconsistent
+111	No those who are smiling had a fun time. These people are not smiling.	These people had a fun time.	These people didn't have a fun time.	3	EN1	inconsistent
+112	All those who ran around the park are out of breath. These people are out of breath.	These people ran around the park.	These people didn't run around the park.	3	AP2	consistent
+113	All those who are out of breath ran around the park. These people are out of breath.	These people ran around the park.	These people didn't run around the park.	1	AP1	neutral
+114	All those who ran around the park are out of breath. These people are not out of breath.	These people ran around the park.	These people didn't run around the park.	2	AN2	consistent
+115	All those who are out of breath ran around the park. These people are not out of breath.	These people ran around the park.	These people didn't run around the park.	3	AN1	neutral
+116	No those who ran around the park are out of breath. These people are out of breath.	These people ran around the park.	These people didn't run around the park.	2	EP2	inconsistent
+117	No those who are out of breath ran around the park. These people are out of breath.	These people ran around the park.	These people didn't run around the park.	2	EP1	neutral
+118	No those who ran around the park are out of breath. These people are not out of breath.	These people ran around the park.	These people didn't run around the park.	3	EN2	inconsistent
+119	No those who are out of breath ran around the park. These people are not out of breath.	These people ran around the park.	These people didn't run around the park.	3	EN1	neutral
+120	All those who were scolded are depressed. These children are depressed.	These children were scolded.	These children were not scolded.	3	AP2	consistent
+121	All those who are depressed were scolded. These children are depressed.	These children were scolded.	These children were not scolded.	1	AP1	neutral
+122	All those who were scolded are depressed. These children are not depressed.	These children were scolded.	These children were not scolded.	2	AN2	consistent
+123	All those who are depressed were scolded. These children are not depressed.	These children were scolded.	These children were not scolded.	3	AN1	neutral
+124	No those who were scolded are depressed. These children are depressed.	These children were scolded.	These children were not scolded.	2	EP2	inconsistent
+125	No those who are depressed were scolded. These children are depressed.	These children were scolded.	These children were not scolded.	2	EP1	neutral
+126	No those who were scolded are depressed. These children are not depressed.	These children were scolded.	These children were not scolded.	3	EN2	inconsistent
+127	No those who are depressed were scolded. These children are not depressed.	These children were scolded.	These children were not scolded.	3	EN1	neutral
+128	All those who got punched get injured. These people get injured.	These people got punched.	These people didn't get punched.	3	AP2	consistent
+129	All those who get injured got punched. These people get injured.	These people got punched.	These people didn't get punched.	1	AP1	neutral
+130	All those who got punched get injured. These people don't get injured.	These people got punched.	These people didn't get punched.	2	AN2	consistent
+131	All those who get injured got punched. These people don't get injured.	These people got punched.	These people didn't get punched.	3	AN1	neutral
+132	No those who got punched get injured. These people get injured.	These people got punched.	These people didn't get punched.	2	EP2	inconsistent
+133	No those who get injured got punched. These people get injured.	These people got punched.	These people didn't get punched.	2	EP1	neutral
+134	No those who got punched get injured. These people don't get injured.	These people got punched.	These people didn't get punched.	3	EN2	inconsistent
+135	No those who get injured got punched. These people don't get injured.	These people got punched.	These people didn't get punched.	3	EN1	neutral
+136	All things that are made by luxury brands look gorgeous. These bags look gorgeous.	These bags are made by luxury brands.	These bags are not made by luxury brands.	3	AP2	consistent
+137	All things that look gorgeous are made by luxury brands. These bags look gorgeous.	These bags are made by luxury brands.	These bags are not made by luxury brands.	1	AP1	consistent
+138	All things that are made by luxury brands look gorgeous. These bags don't look gorgeous.	These bags are made by luxury brands.	These bags are not made by luxury brands.	2	AN2	consistent
+139	All things that look gorgeous are made by luxury brands. These bags don't look gorgeous.	These bags are made by luxury brands.	These bags are not made by luxury brands.	3	AN1	consistent
+140	No things that are made by luxury brands look gorgeous. These bags look gorgeous.	These bags are made by luxury brands.	These bags are not made by luxury brands.	2	EP2	inconsistent
+141	No things that look gorgeous are made by luxury brands. These bags look gorgeous.	These bags are made by luxury brands.	These bags are not made by luxury brands.	2	EP1	inconsistent
+142	No things that are made by luxury brands look gorgeous. These bags don't look gorgeous.	These bags are made by luxury brands.	These bags are not made by luxury brands.	3	EN2	inconsistent
+143	No things that look gorgeous are made by luxury brands. These bags don't look gorgeous.	These bags are made by luxury brands.	These bags are not made by luxury brands.	3	EN1	inconsistent
+144	All things that are made in the sweets restaurant are spicy. These cakes are spicy.	These cakes are made in the sweets restaurant.	These cakes are not made in the sweets restaurant.	3	AP2	inconsistent
+145	All things that are spicy are made in the sweets restaurant. These cakes are spicy.	These cakes are made in the sweets restaurant.	These cakes are not made in the sweets restaurant.	1	AP1	inconsistent
+146	All things that are made in the sweets restaurant are spicy. These cakes are not spicy.	These cakes are made in the sweets restaurant.	These cakes are not made in the sweets restaurant.	2	AN2	inconsistent
+147	All things that are spicy are made in the sweets restaurant. These cakes are not spicy.	These cakes are made in the sweets restaurant.	These cakes are not made in the sweets restaurant.	3	AN1	inconsistent
+148	No things that are made in the sweets restaurant are spicy. These cakes are spicy.	These cakes are made in the sweets restaurant.	These cakes are not made in the sweets restaurant.	2	EP2	consistent
+149	No things that are spicy are made in the sweets restaurant. These cakes are spicy.	These cakes are made in the sweets restaurant.	These cakes are not made in the sweets restaurant.	2	EP1	consistent
+150	No things that are made in the sweets restaurant are spicy. These cakes are not spicy.	These cakes are made in the sweets restaurant.	These cakes are not made in the sweets restaurant.	3	EN2	consistent
+151	No things that are spicy are made in the sweets restaurant. These cakes are not spicy.	These cakes are made in the sweets restaurant.	These cakes are not made in the sweets restaurant.	3	EN1	consistent
+152	All things that are sold in the cigar store are healthy for our body. These cigarettes are healthy for our body.	These cigarettes are sold in the cigar store.	These cigarettes are not sold in the cigar store.	3	AP2	inconsistent
+153	All things that are healthy for our body are sold in the cigar store. These cigarettes are healthy for our body.	These cigarettes are sold in the cigar store.	These cigarettes are not sold in the cigar store.	1	AP1	inconsistent
+154	All things that are sold in the cigar store are healthy for our body. These cigarettes are not healthy for our body.	These cigarettes are sold in the cigar store.	These cigarettes are not sold in the cigar store.	2	AN2	inconsistent
+155	All things that are healthy for our body are sold in the cigar store. These cigarettes are not healthy for our body.	These cigarettes are sold in the cigar store.	These cigarettes are not sold in the cigar store.	3	AN1	inconsistent
+156	No things that are sold in the cigar store are healthy for our body. These cigarettes are healthy for our body.	These cigarettes are sold in the cigar store.	These cigarettes are not sold in the cigar store.	2	EP2	consistent
+157	No things that are healthy for our body are sold in the cigar store. These cigarettes are healthy for our body.	These cigarettes are sold in the cigar store.	These cigarettes are not sold in the cigar store.	2	EP1	consistent
+158	No things that are sold in the cigar store are healthy for our body. These cigarettes are not healthy for our body.	These cigarettes are sold in the cigar store.	These cigarettes are not sold in the cigar store.	3	EN2	consistent
+159	No things that are healthy for our body are sold in the cigar store. These cigarettes are not healthy for our body.	These cigarettes are sold in the cigar store.	These cigarettes are not sold in the cigar store.	3	EN1	consistent
+160	All things that are in the park were created by tomatoes. These dogs were created by tomatoes.	These dogs are in the park.	These dogs are not in the park.	3	AP2	inconsistent
+161	All things that were created by tomatoes are in the park. These dogs were created by tomatoes.	These dogs are in the park.	These dogs are not in the park.	1	AP1	inconsistent
+162	All things that are in the park were created by tomatoes. These dogs were not created by tomatoes.	These dogs are in the park.	These dogs are not in the park.	2	AN2	inconsistent
+163	All things that were created by tomatoes are in the park. These dogs were not created by tomatoes.	These dogs are in the park.	These dogs are not in the park.	3	AN1	inconsistent
+164	No things that are in the park were created by tomatoes. These dogs were created by tomatoes.	These dogs are in the park.	These dogs are not in the park.	2	EP2	consistent
+165	No things that were created by tomatoes are in the park. These dogs were created by tomatoes.	These dogs are in the park.	These dogs are not in the park.	2	EP1	consistent
+166	No things that are in the park were created by tomatoes. These dogs were not created by tomatoes.	These dogs are in the park.	These dogs are not in the park.	3	EN2	consistent
+167	No things that were created by tomatoes are in the park. These dogs were not created by tomatoes.	These dogs are in the park.	These dogs are not in the park.	3	EN1	consistent
+168	All things that are served in the Indian curry restauraut are sweet. These foods are sweet.	These foods are served in the Indian curry restauraut.	These foods are not served in the Indian curry restauraut.	3	AP2	inconsistent
+169	All things that are sweet are served in the Indian curry restauraut. These foods are sweet.	These foods are served in the Indian curry restauraut.	These foods are not served in the Indian curry restauraut.	1	AP1	inconsistent
+170	All things that are served in the Indian curry restauraut are sweet. These foods are not sweet.	These foods are served in the Indian curry restauraut.	These foods are not served in the Indian curry restauraut.	2	AN2	inconsistent
+171	All things that are sweet are served in the Indian curry restauraut. These foods are not sweet.	These foods are served in the Indian curry restauraut.	These foods are not served in the Indian curry restauraut.	3	AN1	inconsistent
+172	No things that are served in the Indian curry restauraut are sweet. These foods are sweet.	These foods are served in the Indian curry restauraut.	These foods are not served in the Indian curry restauraut.	2	EP2	consistent
+173	No things that are sweet are served in the Indian curry restauraut. These foods are sweet.	These foods are served in the Indian curry restauraut.	These foods are not served in the Indian curry restauraut.	2	EP1	consistent
+174	No things that are served in the Indian curry restauraut are sweet. These foods are not sweet.	These foods are served in the Indian curry restauraut.	These foods are not served in the Indian curry restauraut.	3	EN2	consistent
+175	No things that are sweet are served in the Indian curry restauraut. These foods are not sweet.	These foods are served in the Indian curry restauraut.	These foods are not served in the Indian curry restauraut.	3	EN1	consistent
+176	All those who are in the baby room are frightening. These babies are frightening.	These babies are in the baby room.	These babies are not in the baby room.	3	AP2	inconsistent
+177	All those who are frightening are in the baby room. These babies are frightening.	These babies are in the baby room.	These babies are not in the baby room.	1	AP1	inconsistent
+178	All those who are in the baby room are frightening. These babies are not frightening.	These babies are in the baby room.	These babies are not in the baby room.	2	AN2	inconsistent
+179	All those who are frightening are in the baby room. These babies are not frightening.	These babies are in the baby room.	These babies are not in the baby room.	3	AN1	inconsistent
+180	No those who are in the baby room are frightening. These babies are frightening.	These babies are in the baby room.	These babies are not in the baby room.	2	EP2	consistent
+181	No those who are frightening are in the baby room. These babies are frightening.	These babies are in the baby room.	These babies are not in the baby room.	2	EP1	consistent
+182	No those who are in the baby room are frightening. These babies are not frightening.	These babies are in the baby room.	These babies are not in the baby room.	3	EN2	consistent
+183	No those who are frightening are in the baby room. These babies are not frightening.	These babies are in the baby room.	These babies are not in the baby room.	3	EN1	consistent
+184	All things that are served in the beer garden are sweet. These bevarages are sweet.	These bevarages are served in the beer garden.	These bevarages are not served in the beer garden.	3	AP2	inconsistent
+185	All things that are sweet are served in the beer garden. These bevarages are sweet.	These bevarages are served in the beer garden.	These bevarages are not served in the beer garden.	1	AP1	inconsistent
+186	All things that are served in the beer garden are sweet. These bevarages are not sweet.	These bevarages are served in the beer garden.	These bevarages are not served in the beer garden.	2	AN2	inconsistent
+187	All things that are sweet are served in the beer garden. These bevarages are not sweet.	These bevarages are served in the beer garden.	These bevarages are not served in the beer garden.	3	AN1	inconsistent
+188	No things that are served in the beer garden are sweet. These bevarages are sweet.	These bevarages are served in the beer garden.	These bevarages are not served in the beer garden.	2	EP2	consistent
+189	No things that are sweet are served in the beer garden. These bevarages are sweet.	These bevarages are served in the beer garden.	These bevarages are not served in the beer garden.	2	EP1	consistent
+190	No things that are served in the beer garden are sweet. These bevarages are not sweet.	These bevarages are served in the beer garden.	These bevarages are not served in the beer garden.	3	EN2	consistent
+191	No things that are sweet are served in the beer garden. These bevarages are not sweet.	These bevarages are served in the beer garden.	These bevarages are not served in the beer garden.	3	EN1	consistent
+192	All those who are active in the major league baseball are terrible at baseball. These baseball players are terrible at baseball.	These baseball players are active in the major league baseball.	These baseball players are not active in the major league baseball.	3	AP2	inconsistent
+193	All those who are terrible at baseball are active in the major league baseball. These baseball players are terrible at baseball.	These baseball players are active in the major league baseball.	These baseball players are not active in the major league baseball.	1	AP1	inconsistent
+194	All those who are active in the major league baseball are terrible at baseball. These baseball players are not terrible at baseball.	These baseball players are active in the major league baseball.	These baseball players are not active in the major league baseball.	2	AN2	inconsistent
+195	All those who are terrible at baseball are active in the major league baseball. These baseball players are not terrible at baseball.	These baseball players are active in the major league baseball.	These baseball players are not active in the major league baseball.	3	AN1	inconsistent
+196	No those who are active in the major league baseball are terrible at baseball. These baseball players are terrible at baseball.	These baseball players are active in the major league baseball.	These baseball players are not active in the major league baseball.	2	EP2	consistent
+197	No those who are terrible at baseball are active in the major league baseball. These baseball players are terrible at baseball.	These baseball players are active in the major league baseball.	These baseball players are not active in the major league baseball.	2	EP1	consistent
+198	No those who are active in the major league baseball are terrible at baseball. These baseball players are not terrible at baseball.	These baseball players are active in the major league baseball.	These baseball players are not active in the major league baseball.	3	EN2	consistent
+199	No those who are terrible at baseball are active in the major league baseball. These baseball players are not terrible at baseball.	These baseball players are active in the major league baseball.	These baseball players are not active in the major league baseball.	3	EN1	consistent
+200	All things that are in the pet shop are robots. These cats are robots.	These cats are in the pet shop.	These cats are not in the pet shop.	3	AP2	inconsistent
+201	All things that are robots are in the pet shop. These cats are robots.	These cats are in the pet shop.	These cats are not in the pet shop.	1	AP1	inconsistent
+202	All things that are in the pet shop are robots. These cats are not robots.	These cats are in the pet shop.	These cats are not in the pet shop.	2	AN2	inconsistent
+203	All things that are robots are in the pet shop. These cats are not robots.	These cats are in the pet shop.	These cats are not in the pet shop.	3	AN1	inconsistent
+204	No things that are in the pet shop are robots. These cats are robots.	These cats are in the pet shop.	These cats are not in the pet shop.	2	EP2	consistent
+205	No things that are robots are in the pet shop. These cats are robots.	These cats are in the pet shop.	These cats are not in the pet shop.	2	EP1	consistent
+206	No things that are in the pet shop are robots. These cats are not robots.	These cats are in the pet shop.	These cats are not in the pet shop.	3	EN2	consistent
+207	No things that are robots are in the pet shop. These cats are not robots.	These cats are in the pet shop.	These cats are not in the pet shop.	3	EN1	consistent
+208	All things that are in the water bottle are solid. These stones are solid.	These stones are in the water bottle.	These stones are not in the water bottle.	3	AP2	inconsistent
+209	All things that are solid are in the water bottle. These stones are solid.	These stones are in the water bottle.	These stones are not in the water bottle.	1	AP1	inconsistent
+210	All things that are in the water bottle are solid. These stones are not solid.	These stones are in the water bottle.	These stones are not in the water bottle.	2	AN2	inconsistent
+211	All things that are solid are in the water bottle. These stones are not solid.	These stones are in the water bottle.	These stones are not in the water bottle.	3	AN1	inconsistent
+212	No things that are in the water bottle are solid. These stones are solid.	These stones are in the water bottle.	These stones are not in the water bottle.	2	EP2	consistent
+213	No things that are solid are in the water bottle. These stones are solid.	These stones are in the water bottle.	These stones are not in the water bottle.	2	EP1	consistent
+214	No things that are in the water bottle are solid. These stones are not solid.	These stones are in the water bottle.	These stones are not in the water bottle.	3	EN2	consistent
+215	No things that are solid are in the water bottle. These stones are not solid.	These stones are in the water bottle.	These stones are not in the water bottle.	3	EN1	consistent
