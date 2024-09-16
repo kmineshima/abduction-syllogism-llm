@@ -39,7 +39,7 @@ Datasets and scripts for the HAR 2024 paper: ["Abductive Reasoning with Syllogis
 
 #### File
 
-[`data/Deduction_synthetic_problems.tsv`](https://github.com/kmineshima/euler-diagrams-llm/blob/main/data/EulerDiagramSynth_MC194.tsv)
+[`data/Deduction_synthetic_problems.tsv`](https://github.com/kmineshima/abduction-syllogism-llm/blob/main/data/Deduction_synthetic_problems.tsv)
 
 #### Description
 
@@ -48,10 +48,11 @@ Datasets and scripts for the HAR 2024 paper: ["Abductive Reasoning with Syllogis
 | premises_en | two premises in English |
 | hypothesis_en_1 | hypothesis 1 in English |
 | hypothesis_en_2 | hypothesis 2 in English |
-| gold | correct answer (1-3, 3 is *Neither.*) |
+| gold | correct answer as deduction (1-3, 3 is *Neither.*) |
 | figure_premises | the form of each premise (two letters composed of A, E, P and N) and code for the order in which each term appears (1-4) |
 | content | classification based on belief consistency (*neutral*, *consistent*, *inconsistent*) |
 
+- See [our paper](#citation) for details.
 <!-- - **NOTE:** One of the five hypotheses is "none of them". -->
 
 ## Citation
