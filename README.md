@@ -28,6 +28,7 @@ Datasets and scripts for the HAR 2024 paper: ["Abductive Reasoning with Syllogis
 | hypothesis_en_2 | hypothesis 2 in English |
 | gold | correct answer as abduction (1-3, 3 is *Neither is a good explanation.*) |
 | gold_deduc | correct answer as deduction (1-3, 3 is *Neither is a good explanation.*) |
+| dobon | hypothesis that contradicts the premises (1-3, 3 is *Neither.*) |
 | figure_premises | the form of each premise (two letters composed of A, E, P and N) and code for the order in which each term appears (1-4) |
 | content | classification based on belief consistency (*neutral*, *consistent*, *inconsistent*) |
 
