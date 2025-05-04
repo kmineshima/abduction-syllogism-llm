@@ -1,7 +1,7 @@
 # abduction-syllogism-llm
 _Evaluating Abductive Reasoning with Syllogistic Forms in Large Language Models_
 
-Datasets and scripts for the HAR 2024 paper: ["Abductive Reasoning with Syllogistic Forms in Large Language Models"](https://link.springer.com/chapter/10.1007/978-3-031-84595-6_1)
+Datasets and scripts for the HAR 2024 paper: ["Abductive Reasoning with Syllogistic Forms in Large Language Models"](#citation)
 
 ## Contents
 
@@ -53,7 +53,7 @@ Datasets and scripts for the HAR 2024 paper: ["Abductive Reasoning with Syllogis
 | figure_premises | the form of each premise (two letters composed of A, E, P and N) and code for the order in which each term appears (1-4) |
 | content | classification based on belief consistency (*neutral*, *consistent*, *inconsistent*) |
 
-- See [our paper](https://link.springer.com/chapter/10.1007/978-3-031-84595-6_1) for details.
+- See [our paper](#citation) for details.
 <!-- - **NOTE:** One of the five hypotheses is "none of them". -->
 
 ## Citation
@@ -63,7 +63,7 @@ If you use this data in any published research, please cite the following:
 - Hirohiko Abe, Risako Ando, Takanobu Morishita, Kentaro Ozeki, Koji Mineshima, and Mitsuhiro Okada, ["Abductive Reasoning with Syllogistic Forms in Large Language Models"](https://link.springer.com/chapter/10.1007/978-3-031-84595-6_1), *Proceedings of the 3rd International Conference on Human and Artificial Rationalities* (HAR 2024), Lecture Notes in Computer Science (LNAI), 2024.
 
 ```
-@InProceedings{10.1007/978-3-031-84595-6_1,
+@InProceedings{abe-et-al-2025-abduction-llm,
 author="Abe, Hirohiko
 and Ando, Risako
 and Morishita, Takanobu
